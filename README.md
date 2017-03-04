@@ -8,4 +8,4 @@ Its functions is the following:
  4. post a tweet
  4. search tweets & view profile
  
- You need to signup first in order to use all functions of this website. 
+You need to signup first in order to use all functions of this website. 
