@@ -9,3 +9,6 @@ Its functions is the following:
  4. search tweets & view profile
  
 You need to signup first in order to use all functions of this website. 
+
+username: shyang@gmail.com  ps: 123  
+only for test use
